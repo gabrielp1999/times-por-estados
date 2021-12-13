@@ -1,0 +1,19 @@
+body {
+    background-color: gainsboro;
+}
+
+section {
+    display: flex;
+    height: 200px;
+    width: 50vw;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    height: 20px;
+    margin-left: 20px ;
+}

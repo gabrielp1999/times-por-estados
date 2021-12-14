@@ -1,4 +1,20 @@
 [
+  {
+      "estado": "mg",
+      "time": "Selecionar time",
+      "sigla": ""
+  },
+  {
+    "estado": "sp",
+    "time": "Selecionar time",
+    "sigla": ""
+  },
+
+  {
+    "estado": "rj",
+    "time": "Selecionar time",
+    "sigla": ""
+  },
     {
         "estado": "mg",
         "time": "América Mineiro",
